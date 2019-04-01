@@ -17,7 +17,7 @@ Copy to Chrome installnation
 
 ```
 Example: c:\Program Files (x86)\Google\Chrome\chromedriver.exe
-```
+``` 
 
 ## License
 
