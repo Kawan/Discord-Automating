@@ -1,4 +1,4 @@
-# Github-automate
+# Discord Automating
 
 A Python script to automate login to a webpage
 
