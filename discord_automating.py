@@ -5,7 +5,6 @@ openChrome = webdriver.Chrome(
     executable_path="c:\Program Files (x86)\Google\Chrome\chromedriver.exe")
 
 openChrome.maximize_window()
-
 openChrome.get("https://discordapp.com/login")
 time.sleep(3)
 
